@@ -7,7 +7,7 @@
 #### - 🟢Download BI0s - Playstation 2 BIOS (PS2 BIOS) emulates your favorite games for any console and platform.
 #### - 🟢Descargar BI0s - Playstation 2 BIOS (PS2 BIOS) emula tus juegos favoritos para cualquier consola y plataforma.
 ----
-## [Download BIOOs for PlayStation 2 ](https://www.retrostic.com/es/bios/pcsx2-playstation-2)
+## ~[Download BIOOs for PlayStation 2 ](https://www.retrostic.com/es/bios/pcsx2-playstation-2)~ (Please use an ad blocker to download the BI00s)
 ---
 # BI0s CONTENTS 🎮 
 

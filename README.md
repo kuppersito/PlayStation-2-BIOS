@@ -1,7 +1,7 @@
 # 🔥PlayStati0n-2-BI0s FOR NETHER X2 AETHER X2 AND PCX2🔥
 
 ---
-![Patched](https://img.shields.io/badge/Discord-%20Sspikid12_35287-blueviolet) ![Patched](https://img.shields.io/badge/BIOS-for%20PlayStation2-green) 
+![Patched](https://img.shields.io/badge/Discord-%20Sspikid12_35287-blueviolet) ![Patched](https://img.shields.io/badge/BI0Os-for%20PlayStation2-green) 
 
 ----
 #### - 🟢Download BI0s - Playstation 2 BIOS (PS2 BIOS) emulates your favorite games for any console and platform.
